@@ -29,9 +29,13 @@
 
 我们没有能力对数据来源进行版权审核。虽然本数据集包括了数据来源信息，但为了长而持久的提供数据集的更新和下载，为了尽量避免版权争议，本数据集不提供压缩包内数据的索引和分类。并恳请大家克制住自己的分享欲，不要讨论压缩包的索引及所包含具体内容的信息。请大家更多的关注大数据量语料本身的应用，拜托大家低调的使用数据。
 
-### huggingface
+### modelscope & huggingface 
 
-清洗完成的分类数据将陆续放到：[https://huggingface.co/datasets/liwu/MNBVC](https://huggingface.co/datasets/liwu/MNBVC)
+清洗完成的分类数据将陆续放到：
+
+魔搭平台：[https://modelscope.cn/datasets/liwu/MNBVC](https://modelscope.cn/datasets/liwu/MNBVC)
+
+抱抱脸：[https://huggingface.co/datasets/liwu/MNBVC](https://huggingface.co/datasets/liwu/MNBVC)
 
 ### 一人行快，众人行远（摇人加速 发送邮件 MNBVC@253874.net）
 
